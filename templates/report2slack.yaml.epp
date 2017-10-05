@@ -1,0 +1,5 @@
+---
+webhook_url: "<%= $report2slack::webhook %>"
+channel: "<%= $report2slack::channel %>"
+puppetconsole: "<%= $report2slack::puppetconsole %>"
+icon_url: "<%= $report2slack::icon_url %>"
